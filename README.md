@@ -2,6 +2,8 @@
 
 Software for our augmented reality sandbox located in our hackerspace.
 
+ * now compatible with version 2 of Kinect for Windows Device.
+
 ## dependencies
 
 Debian:
